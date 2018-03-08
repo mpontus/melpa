@@ -1,0 +1,3 @@
+(find-file-global-history
+ :repo "mpontus/find-file-global-history.el"
+ :fetcher github)
